@@ -1,5 +1,5 @@
 #!/bin/bash
-REMOTE=https://github.com/NarpTools
-REMOTE_NAME="Bitey Developer Remote"
-REMOTE_ICON="🔧"
-REMOTE_DESCRIPTION="Developer Content."
+export REMOTE=https://github.com/NarpTools
+export REMOTE_NAME="Developer Bitey Remote"
+export REMOTE_ICON="🔧"
+export REMOTE_DESCRIPTION="Developer Content."
